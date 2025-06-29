@@ -134,7 +134,7 @@ Eventually, they switched to **consistent hashing with virtual nodes** to ease t
 
 ## 📘 Coming Up Next
 
-📌 **Range-Based Sharding**  
+📌 [**Range-Based Sharding**](https://blog.rahuljayaraman.dev/range-based-sharding)  
 We’ll explore how to shard based on ordered key ranges — great for time-series and reporting systems, but with some pitfalls.
 
 ---
@@ -156,5 +156,7 @@ But as your system grows and your needs evolve, you may hit its limits. That’s
 
 **Got questions or want to share how you’ve used hash-based sharding in production?**  
 Drop them in the comments.
+
+Click here for 👉 [**Range Based Sharding**](https://blog.rahuljayaraman.dev/range-based-sharding)
 
 ---
