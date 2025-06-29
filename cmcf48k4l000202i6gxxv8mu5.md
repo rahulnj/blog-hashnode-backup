@@ -171,4 +171,6 @@ Avoid it if:
 
 ## 🧭 Coming Up Next
 
-In the next post, we’ll dive into **Consistent Hashing** — the smarter, scalable way to avoid rebalancing chaos and evenly distribute load, even as you grow.
+In the next post, we’ll dive into [**Consistent Hashing**](https://blog.rahuljayaraman.dev/consistent-hashing) — the smarter, scalable way to avoid rebalancing chaos and evenly distribute load, even as you grow.
+
+Click here for 👉 [**Consistent Hashing**](https://blog.rahuljayaraman.dev/consistent-hashing)
